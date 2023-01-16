@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+
+  .navitem {
+    margin: 5px;
+    padding: 5px;
+  }
+
+  .spacer {
+    flex: auto;
+  }
+}
